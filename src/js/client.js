@@ -34,7 +34,7 @@ class Main extends React.Component {
   render() {
     return (
       <div>
-        <h1>Victory Tutorial</h1>
+        <center><h1>Victory Tutorial</h1></center>
         <VictoryChart
           domainPadding={10}
           theme={VictoryTheme.material}
